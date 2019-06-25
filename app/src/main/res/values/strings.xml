@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TPS465B_Demo</string>
+
+    <string name="title_proximity">Proximity Sensor</string>
+    <string name="proximity_enbale">Enable</string>
+    <string name="proximity_disbale">Disable</string>
+    <string name="title_rs485">RS485</string>
+    <string name="title_relay">Relay</string>
+    <string name="title_led">LED</string>
+    <string name="title_nfc">NFC</string>
+    <string name="rs485_send">Send Mode</string>
+    <string name="rs485_receive">Receive Mode</string>
+    <string name="flash_on">Flash ON</string>
+    <string name="flash_off">Flash OFF</string>
+    <string name="led_flash">Flash</string>
+    <string name="relay_on">ON</string>
+    <string name="relay_off">OFF</string>
+    <string name="nfc_start">Start</string>
+    <string name="nfc_stop">Stop</string>
+    <string name="title_wieggand">Wiegand</string>
+    <string name="wiegand_send26">Send 26Bit</string>
+    <string name="wiegand_send34">Send 34Bit</string>
+
+</resources>
