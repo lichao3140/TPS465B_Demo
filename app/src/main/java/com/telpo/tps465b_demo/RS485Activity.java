@@ -1,14 +1,11 @@
 package com.telpo.tps465b_demo;
 
 import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.common.pos.api.util.PosUtil;
 import com.common.face.api.FaceUtil;
 
 public class RS485Activity extends Activity implements View.OnClickListener {

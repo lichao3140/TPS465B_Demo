@@ -26,7 +26,7 @@
         <activity android:name=".LedActivity" />
         <activity android:name=".RelayActivity" />
         <activity android:name=".WiegandActivity" />
-        <activity android:name=".NfcActivity"></activity>
+        <activity android:name=".NfcActivity" />
     </application>
 
 </manifest>
