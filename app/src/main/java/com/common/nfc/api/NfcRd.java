@@ -1,22 +1,5 @@
 package com.common.nfc.api;
 
-import android.app.Activity;
-import android.app.Service;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.nfc.tech.NfcF;
-import android.os.IBinder;
-import android.util.Log;
-import android.widget.Toast;
-
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-
-import com.telpo.tps465b_demo.NfcActivity;
-
 
 public class NfcRd {
 

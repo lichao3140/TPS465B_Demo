@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.telpo.tps465b_demo"
+        applicationId "com.test.g301"
         minSdkVersion 22
         targetSdkVersion 28
         versionCode 1

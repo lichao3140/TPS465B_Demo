@@ -1,4 +1,4 @@
-package com.telpo.tps465b_demo;
+package com.telpo.g301;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

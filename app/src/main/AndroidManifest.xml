@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.telpo.tps465b_demo">
+    package="com.test.g301">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.FLASHLIGHT" />
@@ -14,19 +14,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.test.g301.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ProximityActivity" />
-        <activity android:name=".RS485Activity" />
-        <activity android:name=".LedActivity" />
-        <activity android:name=".RelayActivity" />
-        <activity android:name=".WiegandActivity" />
-        <activity android:name=".NfcActivity" />
+        <activity android:name="com.test.g301.ProximityActivity" />
+        <activity android:name="com.test.g301.RS485Activity" />
+        <activity android:name="com.test.g301.LedActivity" />
+        <activity android:name="com.test.g301.RelayActivity" />
+        <activity android:name="com.test.g301.WiegandActivity" />
+        <activity android:name="com.test.g301.NfcActivity" />
     </application>
 
 </manifest>

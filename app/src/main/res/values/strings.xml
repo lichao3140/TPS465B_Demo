@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TPS465B_Demo</string>
+    <string name="app_name">G301_Demo</string>
 
     <string name="title_proximity">Proximity Sensor</string>
     <string name="proximity_enbale">Enable</string>
